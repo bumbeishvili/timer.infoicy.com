@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="630" fill="#1a1a1a"/>
+    
+    <!-- Timer Display Background -->
+    <rect x="300" y="165" width="600" height="200" rx="20" fill="#2a2a2a"/>
+    
+    <!-- Digital Numbers -->
+    <g fill="#4CAF50">
+        <rect x="340" y="190" width="80" height="150" rx="10"/>
+        <rect x="440" y="190" width="80" height="150" rx="10"/>
+        <text x="535" y="290" font-size="120" fill="#fff">:</text>
+        <rect x="580" y="190" width="80" height="150" rx="10"/>
+        <rect x="680" y="190" width="80" height="150" rx="10"/>
+    </g>
+    
+    <!-- Title -->
+    <text x="600" y="450" font-family="Arial, sans-serif" font-size="48" fill="#fff" text-anchor="middle" font-weight="bold">
+        Interactive Digital Timer
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="600" y="500" font-family="Arial, sans-serif" font-size="24" fill="#888" text-anchor="middle">
+        Drag & Drop • Sound Alerts • Easy to Use
+    </text>
+</svg>
